@@ -355,14 +355,13 @@ img {
   text-transform: uppercase;
   color: #4d5ae5;
   letter-spacing: 0.03em;
+  display: inline-block;
+  margin-bottom: 16px;
 }
 .accent {
   color: #f4f4fd;
 }
-.footer-logo .accent {
-  display: inline-block;
-  margin-bottom: 16px;
-}
+
 .footer-text {
   max-width: 264px;
   line-height: 24px;
