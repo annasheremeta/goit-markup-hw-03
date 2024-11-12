@@ -25,6 +25,7 @@ img {
   height: auto;
 }
 .container {
+  width: 1158px;
   padding: 0 15px;
   margin: 0 auto;
 }
@@ -157,9 +158,6 @@ a {
 
 .feature-container {
   background-color: #fff;
-
-  flex-direction: column;
-  align-items: center;
 }
 .feature-section {
   padding: 120px 0px;
@@ -269,7 +267,7 @@ a {
 /* Our portfolio section */
 .portfolio-container {
   width: 100%;
-  max-width: 1200px;
+  max-width: 1158px;
   margin: 0 auto;
   padding: 0 20px;
 }
