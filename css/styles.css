@@ -329,7 +329,10 @@ a {
   text-transform: uppercase;
   color: #4d5ae5;
   letter-spacing: 0.03em;
+  display: inline-block;
+  margin-bottom: 16px;
 }
+
 .accent {
   color: #f4f4fd;
 }
